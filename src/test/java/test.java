@@ -130,7 +130,7 @@ public class test {
         new Actions(driver).moveToElement(hover).perform();
 
 
-        Thread.sleep(2000);
+        Thread.sleep(3000);
         driver.quit();
     }
 }
